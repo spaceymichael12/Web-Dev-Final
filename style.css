@@ -1,0 +1,8 @@
+body{
+  background-color: "white";
+  font-color: "black";
+  border: 1px black solid; padding: 20px; border-collapse: separate; border-spacing: 10px;
+}
+.title{
+  font-size: 25px;
+}
